@@ -1,0 +1,1955 @@
+digraph RGL_DirectedAdjacencyGraph {
+  0 [
+     fontsize = 8,
+     label = "COMMAND NODE" 
+  ] 
+  1 [
+     fontsize = 8,
+     label = "systemd denied)" 
+  ] 
+  5 [
+     fontsize = 8,
+     label = "kthreadd denied)" 
+  ] 
+  9 [
+     fontsize = 8,
+     label = "ksoftirqd denied)" 
+  ] 
+  13 [
+     fontsize = 8,
+     label = "kworker/0 denied)" 
+  ] 
+  17 [
+     fontsize = 8,
+     label = "rcu_sched denied)" 
+  ] 
+  21 [
+     fontsize = 8,
+     label = "rcu_bh denied)" 
+  ] 
+  25 [
+     fontsize = 8,
+     label = "rcuos/0 denied)" 
+  ] 
+  29 [
+     fontsize = 8,
+     label = "rcuob/0 denied)" 
+  ] 
+  33 [
+     fontsize = 8,
+     label = "migration denied)" 
+  ] 
+  37 [
+     fontsize = 8,
+     label = "watchdog/ denied)" 
+  ] 
+  41 [
+     fontsize = 8,
+     label = "watchdog/ denied)" 
+  ] 
+  45 [
+     fontsize = 8,
+     label = "migration denied)" 
+  ] 
+  49 [
+     fontsize = 8,
+     label = "ksoftirqd denied)" 
+  ] 
+  53 [
+     fontsize = 8,
+     label = "kworker/1 denied)" 
+  ] 
+  57 [
+     fontsize = 8,
+     label = "rcuos/1 denied)" 
+  ] 
+  61 [
+     fontsize = 8,
+     label = "rcuob/1 denied)" 
+  ] 
+  65 [
+     fontsize = 8,
+     label = "watchdog/ denied)" 
+  ] 
+  69 [
+     fontsize = 8,
+     label = "migration denied)" 
+  ] 
+  73 [
+     fontsize = 8,
+     label = "ksoftirqd denied)" 
+  ] 
+  77 [
+     fontsize = 8,
+     label = "kworker/2 denied)" 
+  ] 
+  81 [
+     fontsize = 8,
+     label = "rcuos/2 denied)" 
+  ] 
+  85 [
+     fontsize = 8,
+     label = "rcuob/2 denied)" 
+  ] 
+  89 [
+     fontsize = 8,
+     label = "watchdog/ denied)" 
+  ] 
+  93 [
+     fontsize = 8,
+     label = "migration denied)" 
+  ] 
+  97 [
+     fontsize = 8,
+     label = "ksoftirqd denied)" 
+  ] 
+  101 [
+     fontsize = 8,
+     label = "kworker/3 denied)" 
+  ] 
+  105 [
+     fontsize = 8,
+     label = "rcuos/3 denied)" 
+  ] 
+  109 [
+     fontsize = 8,
+     label = "rcuob/3 denied)" 
+  ] 
+  113 [
+     fontsize = 8,
+     label = "watchdog/ denied)" 
+  ] 
+  117 [
+     fontsize = 8,
+     label = "migration denied)" 
+  ] 
+  121 [
+     fontsize = 8,
+     label = "ksoftirqd denied)" 
+  ] 
+  125 [
+     fontsize = 8,
+     label = "kworker/4 denied)" 
+  ] 
+  129 [
+     fontsize = 8,
+     label = "rcuos/4 denied)" 
+  ] 
+  133 [
+     fontsize = 8,
+     label = "rcuob/4 denied)" 
+  ] 
+  137 [
+     fontsize = 8,
+     label = "watchdog/ denied)" 
+  ] 
+  141 [
+     fontsize = 8,
+     label = "migration denied)" 
+  ] 
+  145 [
+     fontsize = 8,
+     label = "ksoftirqd denied)" 
+  ] 
+  149 [
+     fontsize = 8,
+     label = "kworker/5 denied)" 
+  ] 
+  153 [
+     fontsize = 8,
+     label = "rcuos/5 denied)" 
+  ] 
+  157 [
+     fontsize = 8,
+     label = "rcuob/5 denied)" 
+  ] 
+  161 [
+     fontsize = 8,
+     label = "watchdog/ denied)" 
+  ] 
+  165 [
+     fontsize = 8,
+     label = "migration denied)" 
+  ] 
+  169 [
+     fontsize = 8,
+     label = "ksoftirqd denied)" 
+  ] 
+  173 [
+     fontsize = 8,
+     label = "kworker/6 denied)" 
+  ] 
+  177 [
+     fontsize = 8,
+     label = "rcuos/6 denied)" 
+  ] 
+  181 [
+     fontsize = 8,
+     label = "rcuob/6 denied)" 
+  ] 
+  185 [
+     fontsize = 8,
+     label = "watchdog/ denied)" 
+  ] 
+  189 [
+     fontsize = 8,
+     label = "migration denied)" 
+  ] 
+  193 [
+     fontsize = 8,
+     label = "ksoftirqd denied)" 
+  ] 
+  197 [
+     fontsize = 8,
+     label = "kworker/7 denied)" 
+  ] 
+  201 [
+     fontsize = 8,
+     label = "rcuos/7 denied)" 
+  ] 
+  205 [
+     fontsize = 8,
+     label = "rcuob/7 denied)" 
+  ] 
+  209 [
+     fontsize = 8,
+     label = "khelper denied)" 
+  ] 
+  213 [
+     fontsize = 8,
+     label = "kdevtmpfs denied)" 
+  ] 
+  217 [
+     fontsize = 8,
+     label = "netns denied)" 
+  ] 
+  221 [
+     fontsize = 8,
+     label = "perf denied)" 
+  ] 
+  225 [
+     fontsize = 8,
+     label = "writeback denied)" 
+  ] 
+  229 [
+     fontsize = 8,
+     label = "ksmd denied)" 
+  ] 
+  233 [
+     fontsize = 8,
+     label = "khugepage denied)" 
+  ] 
+  237 [
+     fontsize = 8,
+     label = "crypto denied)" 
+  ] 
+  241 [
+     fontsize = 8,
+     label = "kintegrit denied)" 
+  ] 
+  245 [
+     fontsize = 8,
+     label = "bioset denied)" 
+  ] 
+  249 [
+     fontsize = 8,
+     label = "kblockd denied)" 
+  ] 
+  253 [
+     fontsize = 8,
+     label = "ata_sff denied)" 
+  ] 
+  257 [
+     fontsize = 8,
+     label = "md denied)" 
+  ] 
+  261 [
+     fontsize = 8,
+     label = "devfreq_w denied)" 
+  ] 
+  265 [
+     fontsize = 8,
+     label = "kswapd0 denied)" 
+  ] 
+  269 [
+     fontsize = 8,
+     label = "fsnotify_ denied)" 
+  ] 
+  273 [
+     fontsize = 8,
+     label = "kthrotld denied)" 
+  ] 
+  277 [
+     fontsize = 8,
+     label = "acpi_ther denied)" 
+  ] 
+  281 [
+     fontsize = 8,
+     label = "scsi_eh_0 denied)" 
+  ] 
+  285 [
+     fontsize = 8,
+     label = "scsi_tmf_ denied)" 
+  ] 
+  289 [
+     fontsize = 8,
+     label = "scsi_eh_1 denied)" 
+  ] 
+  293 [
+     fontsize = 8,
+     label = "scsi_tmf_ denied)" 
+  ] 
+  297 [
+     fontsize = 8,
+     label = "scsi_eh_2 denied)" 
+  ] 
+  301 [
+     fontsize = 8,
+     label = "scsi_tmf_ denied)" 
+  ] 
+  305 [
+     fontsize = 8,
+     label = "scsi_eh_3 denied)" 
+  ] 
+  309 [
+     fontsize = 8,
+     label = "scsi_tmf_ denied)" 
+  ] 
+  313 [
+     fontsize = 8,
+     label = "scsi_eh_4 denied)" 
+  ] 
+  317 [
+     fontsize = 8,
+     label = "scsi_tmf_ denied)" 
+  ] 
+  321 [
+     fontsize = 8,
+     label = "scsi_eh_5 denied)" 
+  ] 
+  325 [
+     fontsize = 8,
+     label = "scsi_tmf_ denied)" 
+  ] 
+  329 [
+     fontsize = 8,
+     label = "kpsmoused denied)" 
+  ] 
+  333 [
+     fontsize = 8,
+     label = "dm_bufio_ denied)" 
+  ] 
+  337 [
+     fontsize = 8,
+     label = "ipv6_addr denied)" 
+  ] 
+  341 [
+     fontsize = 8,
+     label = "deferwq denied)" 
+  ] 
+  345 [
+     fontsize = 8,
+     label = "kauditd denied)" 
+  ] 
+  349 [
+     fontsize = 8,
+     label = "kworker/4 denied)" 
+  ] 
+  353 [
+     fontsize = 8,
+     label = "kworker/0 denied)" 
+  ] 
+  357 [
+     fontsize = 8,
+     label = "kworker/2 denied)" 
+  ] 
+  361 [
+     fontsize = 8,
+     label = "kworker/3 denied)" 
+  ] 
+  365 [
+     fontsize = 8,
+     label = "kworker/6 denied)" 
+  ] 
+  369 [
+     fontsize = 8,
+     label = "rtsx_pci_ denied)" 
+  ] 
+  373 [
+     fontsize = 8,
+     label = "ttm_swap denied)" 
+  ] 
+  377 [
+     fontsize = 8,
+     label = "kworker/6 denied)" 
+  ] 
+  381 [
+     fontsize = 8,
+     label = "kworker/7 denied)" 
+  ] 
+  385 [
+     fontsize = 8,
+     label = "kdmflush denied)" 
+  ] 
+  389 [
+     fontsize = 8,
+     label = "bioset denied)" 
+  ] 
+  393 [
+     fontsize = 8,
+     label = "kcryptd_i denied)" 
+  ] 
+  397 [
+     fontsize = 8,
+     label = "kcryptd denied)" 
+  ] 
+  401 [
+     fontsize = 8,
+     label = "dmcrypt_w denied)" 
+  ] 
+  405 [
+     fontsize = 8,
+     label = "bioset denied)" 
+  ] 
+  409 [
+     fontsize = 8,
+     label = "kworker/1 denied)" 
+  ] 
+  413 [
+     fontsize = 8,
+     label = "kdmflush denied)" 
+  ] 
+  417 [
+     fontsize = 8,
+     label = "bioset denied)" 
+  ] 
+  421 [
+     fontsize = 8,
+     label = "kdmflush denied)" 
+  ] 
+  425 [
+     fontsize = 8,
+     label = "bioset denied)" 
+  ] 
+  429 [
+     fontsize = 8,
+     label = "kworker/5 denied)" 
+  ] 
+  433 [
+     fontsize = 8,
+     label = "jbd2/dm-2 denied)" 
+  ] 
+  437 [
+     fontsize = 8,
+     label = "ext4-rsv- denied)" 
+  ] 
+  441 [
+     fontsize = 8,
+     label = "systemd-j denied)" 
+  ] 
+  445 [
+     fontsize = 8,
+     label = "lvmetad denied)" 
+  ] 
+  449 [
+     fontsize = 8,
+     label = "rpciod denied)" 
+  ] 
+  453 [
+     fontsize = 8,
+     label = "systemd-u denied)" 
+  ] 
+  457 [
+     fontsize = 8,
+     label = "edac-poll denied)" 
+  ] 
+  461 [
+     fontsize = 8,
+     label = "irq/32-me denied)" 
+  ] 
+  465 [
+     fontsize = 8,
+     label = "irq/20-sm denied)" 
+  ] 
+  469 [
+     fontsize = 8,
+     label = "kmemstick denied)" 
+  ] 
+  473 [
+     fontsize = 8,
+     label = "cfg80211 denied)" 
+  ] 
+  477 [
+     fontsize = 8,
+     label = "kvm-irqfd denied)" 
+  ] 
+  481 [
+     fontsize = 8,
+     label = "wl_event_ denied)" 
+  ] 
+  485 [
+     fontsize = 8,
+     label = "jbd2/sda1 denied)" 
+  ] 
+  489 [
+     fontsize = 8,
+     label = "ext4-rsv- denied)" 
+  ] 
+  493 [
+     fontsize = 8,
+     label = "kdmflush denied)" 
+  ] 
+  497 [
+     fontsize = 8,
+     label = "bioset denied)" 
+  ] 
+  501 [
+     fontsize = 8,
+     label = "kworker/u denied)" 
+  ] 
+  505 [
+     fontsize = 8,
+     label = "hci0 denied)" 
+  ] 
+  509 [
+     fontsize = 8,
+     label = "hci0 denied)" 
+  ] 
+  513 [
+     fontsize = 8,
+     label = "kworker/u denied)" 
+  ] 
+  517 [
+     fontsize = 8,
+     label = "jbd2/dm-3 denied)" 
+  ] 
+  521 [
+     fontsize = 8,
+     label = "ext4-rsv- denied)" 
+  ] 
+  525 [
+     fontsize = 8,
+     label = "auditd denied)" 
+  ] 
+  533 [
+     fontsize = 8,
+     label = "audispd denied)" 
+  ] 
+  541 [
+     fontsize = 8,
+     label = "alsactl denied)" 
+  ] 
+  545 [
+     fontsize = 8,
+     label = "sedispatc denied)" 
+  ] 
+  549 [
+     fontsize = 8,
+     label = "bluetooth denied)" 
+  ] 
+  553 [
+     fontsize = 8,
+     label = "rngd denied)" 
+  ] 
+  557 [
+     fontsize = 8,
+     label = "firewalld denied)" 
+  ] 
+  565 [
+     fontsize = 8,
+     label = "accounts- denied)" 
+  ] 
+  577 [
+     fontsize = 8,
+     label = "avahi-dae denied)" 
+  ] 
+  581 [
+     fontsize = 8,
+     label = "systemd-l denied)" 
+  ] 
+  585 [
+     fontsize = 8,
+     label = "rtkit-dae denied)" 
+  ] 
+  597 [
+     fontsize = 8,
+     label = "dbus-daem denied)" 
+  ] 
+  605 [
+     fontsize = 8,
+     label = "chronyd denied)" 
+  ] 
+  609 [
+     fontsize = 8,
+     label = "gssproxy denied)" 
+  ] 
+  633 [
+     fontsize = 8,
+     label = "avahi-dae denied)" 
+  ] 
+  637 [
+     fontsize = 8,
+     label = "mcelog denied)" 
+  ] 
+  641 [
+     fontsize = 8,
+     label = "abrtd denied)" 
+  ] 
+  649 [
+     fontsize = 8,
+     label = "iprt-VBox denied)" 
+  ] 
+  653 [
+     fontsize = 8,
+     label = "iprt-VBox denied)" 
+  ] 
+  657 [
+     fontsize = 8,
+     label = "polkitd denied)" 
+  ] 
+  681 [
+     fontsize = 8,
+     label = "abrt-watc denied)" 
+  ] 
+  685 [
+     fontsize = 8,
+     label = "abrt-dump denied)" 
+  ] 
+  689 [
+     fontsize = 8,
+     label = "NetworkMa denied)" 
+  ] 
+  705 [
+     fontsize = 8,
+     label = "libvirtd denied)" 
+  ] 
+  749 [
+     fontsize = 8,
+     label = "crond denied)" 
+  ] 
+  753 [
+     fontsize = 8,
+     label = "atd denied)" 
+  ] 
+  757 [
+     fontsize = 8,
+     label = "gdm denied)" 
+  ] 
+  769 [
+     fontsize = 8,
+     label = "wpa_suppl denied)" 
+  ] 
+  773 [
+     fontsize = 8,
+     label = "gdm-sessi denied)" 
+  ] 
+  785 [
+     fontsize = 8,
+     label = "systemd denied)" 
+  ] 
+  789 [
+     fontsize = 8,
+     label = "(sd-pam denied)" 
+  ] 
+  793 [
+     fontsize = 8,
+     label = "gdm-wayla denied)" 
+  ] 
+  805 [
+     fontsize = 8,
+     label = "dbus-daem denied)" 
+  ] 
+  813 [
+     fontsize = 8,
+     label = "gnome-ses denied)" 
+  ] 
+  829 [
+     fontsize = 8,
+     label = "gnome-she denied)" 
+  ] 
+  857 [
+     fontsize = 8,
+     label = "upowerd denied)" 
+  ] 
+  869 [
+     fontsize = 8,
+     label = "dnsmasq denied)" 
+  ] 
+  873 [
+     fontsize = 8,
+     label = "dnsmasq denied)" 
+  ] 
+  877 [
+     fontsize = 8,
+     label = "gvfsd denied)" 
+  ] 
+  885 [
+     fontsize = 8,
+     label = "Xwayland denied)" 
+  ] 
+  921 [
+     fontsize = 8,
+     label = "at-spi-bu denied)" 
+  ] 
+  933 [
+     fontsize = 8,
+     label = "dbus-daem denied)" 
+  ] 
+  941 [
+     fontsize = 8,
+     label = "at-spi2-r denied)" 
+  ] 
+  949 [
+     fontsize = 8,
+     label = "pulseaudi denied)" 
+  ] 
+  965 [
+     fontsize = 8,
+     label = "dhclient denied)" 
+  ] 
+  969 [
+     fontsize = 8,
+     label = "ibus-daem denied)" 
+  ] 
+  981 [
+     fontsize = 8,
+     label = "ibus-dcon denied)" 
+  ] 
+  997 [
+     fontsize = 8,
+     label = "ibus-x11 denied)" 
+  ] 
+  1009 [
+     fontsize = 8,
+     label = "packageki denied)" 
+  ] 
+  1021 [
+     fontsize = 8,
+     label = "gnome-set denied)" 
+  ] 
+  1041 [
+     fontsize = 8,
+     label = "gvfs-udis denied)" 
+  ] 
+  1053 [
+     fontsize = 8,
+     label = "udisksd denied)" 
+  ] 
+  1073 [
+     fontsize = 8,
+     label = "gvfs-goa- denied)" 
+  ] 
+  1081 [
+     fontsize = 8,
+     label = "goa-daemo denied)" 
+  ] 
+  1097 [
+     fontsize = 8,
+     label = "mission-c denied)" 
+  ] 
+  1109 [
+     fontsize = 8,
+     label = "gvfs-mtp- denied)" 
+  ] 
+  1117 [
+     fontsize = 8,
+     label = "gvfs-afc- denied)" 
+  ] 
+  1129 [
+     fontsize = 8,
+     label = "gvfs-gpho denied)" 
+  ] 
+  1137 [
+     fontsize = 8,
+     label = "colord denied)" 
+  ] 
+  1149 [
+     fontsize = 8,
+     label = "ibus-engi denied)" 
+  ] 
+  1161 [
+     fontsize = 8,
+     label = "gdm-sessi denied)" 
+  ] 
+  1173 [
+     fontsize = 8,
+     label = "systemd /" 
+  ] 
+  1210 [
+     fontsize = 8,
+     label = "(sd-pam denied)" 
+  ] 
+  1214 [
+     fontsize = 8,
+     label = "gnome-key denied)" 
+  ] 
+  1226 [
+     fontsize = 8,
+     label = "gdm-x-ses /home/judy" 
+  ] 
+  1334 [
+     fontsize = 8,
+     label = "Xorg denied)" 
+  ] 
+  1350 [
+     fontsize = 8,
+     label = "dbus-daem /home/judy" 
+  ] 
+  1514 [
+     fontsize = 8,
+     label = "gnome-ses /home/judy" 
+  ] 
+  1986 [
+     fontsize = 8,
+     label = "at-spi-bu /home/judy" 
+  ] 
+  2085 [
+     fontsize = 8,
+     label = "dbus-daem /home/judy" 
+  ] 
+  2173 [
+     fontsize = 8,
+     label = "at-spi2-r /home/judy" 
+  ] 
+  2243 [
+     fontsize = 8,
+     label = "gvfsd /home/judy" 
+  ] 
+  2323 [
+     fontsize = 8,
+     label = "gvfsd-fus /home/judy" 
+  ] 
+  2543 [
+     fontsize = 8,
+     label = "gnome-set /home/judy" 
+  ] 
+  3828 [
+     fontsize = 8,
+     label = "pulseaudi /" 
+  ] 
+  4360 [
+     fontsize = 8,
+     label = "cupsd denied)" 
+  ] 
+  4364 [
+     fontsize = 8,
+     label = "krfcommd denied)" 
+  ] 
+  4368 [
+     fontsize = 8,
+     label = "gnome-she /home/judy" 
+  ] 
+  8274 [
+     fontsize = 8,
+     label = "gsd-print /home/judy" 
+  ] 
+  8486 [
+     fontsize = 8,
+     label = "gnome-she /home/judy" 
+  ] 
+  9226 [
+     fontsize = 8,
+     label = "evolution /home/judy" 
+  ] 
+  9877 [
+     fontsize = 8,
+     label = "ibus-daem /home/judy" 
+  ] 
+  10033 [
+     fontsize = 8,
+     label = "ibus-dcon /home/judy" 
+  ] 
+  10241 [
+     fontsize = 8,
+     label = "ibus-x11 /home/judy" 
+  ] 
+  10553 [
+     fontsize = 8,
+     label = "goa-daemo /home/judy" 
+  ] 
+  11133 [
+     fontsize = 8,
+     label = "mission-c /home/judy" 
+  ] 
+  11328 [
+     fontsize = 8,
+     label = "dconf-ser /home/judy" 
+  ] 
+  11397 [
+     fontsize = 8,
+     label = "gvfs-udis /home/judy" 
+  ] 
+  11559 [
+     fontsize = 8,
+     label = "gvfs-goa- /home/judy" 
+  ] 
+  11629 [
+     fontsize = 8,
+     label = "gvfs-mtp- /home/judy" 
+  ] 
+  11717 [
+     fontsize = 8,
+     label = "gvfs-afc- /home/judy" 
+  ] 
+  11888 [
+     fontsize = 8,
+     label = "gvfs-gpho /home/judy" 
+  ] 
+  11984 [
+     fontsize = 8,
+     label = "seapplet /home/judy" 
+  ] 
+  12085 [
+     fontsize = 8,
+     label = "evolution /home/judy" 
+  ] 
+  13115 [
+     fontsize = 8,
+     label = "tracker-m /home/judy" 
+  ] 
+  13334 [
+     fontsize = 8,
+     label = "tracker-e /home/judy" 
+  ] 
+  14594 [
+     fontsize = 8,
+     label = "tracker-m /home/judy" 
+  ] 
+  14813 [
+     fontsize = 8,
+     label = "tracker-s /home/judy" 
+  ] 
+  15341 [
+     fontsize = 8,
+     label = "gnome-sof /home/judy" 
+  ] 
+  15937 [
+     fontsize = 8,
+     label = "tracker-m /home/judy" 
+  ] 
+  16285 [
+     fontsize = 8,
+     label = "abrt-appl /home/judy" 
+  ] 
+  16559 [
+     fontsize = 8,
+     label = "evolution /home/judy" 
+  ] 
+  17391 [
+     fontsize = 8,
+     label = "evolution /home/judy" 
+  ] 
+  18331 [
+     fontsize = 8,
+     label = "evolution /home/judy" 
+  ] 
+  19147 [
+     fontsize = 8,
+     label = "evolution /home/judy" 
+  ] 
+  19708 [
+     fontsize = 8,
+     label = "evolution /home/judy" 
+  ] 
+  20275 [
+     fontsize = 8,
+     label = "ibus-engi /home/judy" 
+  ] 
+  20416 [
+     fontsize = 8,
+     label = "firefox /home/judy" 
+  ] 
+  45694 [
+     fontsize = 8,
+     label = "kworker/5 denied)" 
+  ] 
+  45698 [
+     fontsize = 8,
+     label = "kworker/7 denied)" 
+  ] 
+  45702 [
+     fontsize = 8,
+     label = "kworker/3 denied)" 
+  ] 
+  45706 [
+     fontsize = 8,
+     label = "kworker/0 denied)" 
+  ] 
+  45710 [
+     fontsize = 8,
+     label = "kworker/u denied)" 
+  ] 
+  45714 [
+     fontsize = 8,
+     label = "gvfsd-met /home/judy" 
+  ] 
+  45812 [
+     fontsize = 8,
+     label = "gvfsd-tra /home/judy" 
+  ] 
+  45965 [
+     fontsize = 8,
+     label = "kworker/4 denied)" 
+  ] 
+  45969 [
+     fontsize = 8,
+     label = "gnome-ter /home/judy" 
+  ] 
+  46745 [
+     fontsize = 8,
+     label = "gnome-pty denied)" 
+  ] 
+  46749 [
+     fontsize = 8,
+     label = "bash /home/judy/graph" 
+  ] 
+  46763 [
+     fontsize = 8,
+     label = "kworker/6 denied)" 
+  ] 
+  46767 [
+     fontsize = 8,
+     label = "kworker/5 denied)" 
+  ] 
+  46771 [
+     fontsize = 8,
+     label = "bash /home/judy/graph" 
+  ] 
+  46785 [
+     fontsize = 8,
+     label = "bash /home/judy/graph" 
+  ] 
+  46799 [
+     fontsize = 8,
+     label = "sftp /home/judy/graph" 
+  ] 
+  46832 [
+     fontsize = 8,
+     label = "kworker/3 denied)" 
+  ] 
+  46836 [
+     fontsize = 8,
+     label = "kworker/7 denied)" 
+  ] 
+  46840 [
+     fontsize = 8,
+     label = "kworker/2 denied)" 
+  ] 
+  46844 [
+     fontsize = 8,
+     label = "kworker/1 denied)" 
+  ] 
+  46848 [
+     fontsize = 8,
+     label = "kworker/u denied)" 
+  ] 
+  46852 [
+     fontsize = 8,
+     label = "kworker/u denied)" 
+  ] 
+  46856 [
+     fontsize = 8,
+     label = "kworker/1 denied)" 
+  ] 
+  46860 [
+     fontsize = 8,
+     label = "kworker/u denied)" 
+  ] 
+  46864 [
+     fontsize = 8,
+     label = "kworker/u denied)" 
+  ] 
+  46868 [
+     fontsize = 8,
+     label = "kworker/u denied)" 
+  ] 
+  46872 [
+     fontsize = 8,
+     label = "kworker/0 denied)" 
+  ] 
+  46876 [
+     fontsize = 8,
+     label = "kworker/u denied)" 
+  ] 
+  46880 [
+     fontsize = 8,
+     label = "kworker/u denied)" 
+  ] 
+  46884 [
+     fontsize = 8,
+     label = "kworker/4 denied)" 
+  ] 
+  46888 [
+     fontsize = 8,
+     label = "kworker/2 denied)" 
+  ] 
+  46892 [
+     fontsize = 8,
+     label = "bash /home/judy/graph" 
+  ] 
+  46906 [
+     fontsize = 8,
+     label = "kworker/u denied)" 
+  ] 
+  46910 [
+     fontsize = 8,
+     label = "kworker/1 denied)" 
+  ] 
+  46914 [
+     fontsize = 8,
+     label = "kworker/0 denied)" 
+  ] 
+  46918 [
+     fontsize = 8,
+     label = "ruby /home/judy/graph" 
+  ] 
+  46962 [
+     fontsize = 8,
+     label = "sh /home/judy/graph" 
+  ] 
+  46974 [
+     fontsize = 8,
+     label = "lsof /home/judy/graph" 
+  ] 
+  46991 [
+     fontsize = 8,
+     label = "lsof /home/judy/graph" 
+  ] 
+  -1 -> 0 [
+     fontsize = 8,
+  ] 
+  -1 -> 1 [
+     fontsize = 8,
+  ] 
+  -1 -> 5 [
+     fontsize = 8,
+  ] 
+  5 -> 9 [
+     fontsize = 8,
+  ] 
+  5 -> 13 [
+     fontsize = 8,
+  ] 
+  5 -> 17 [
+     fontsize = 8,
+  ] 
+  5 -> 21 [
+     fontsize = 8,
+  ] 
+  5 -> 25 [
+     fontsize = 8,
+  ] 
+  5 -> 29 [
+     fontsize = 8,
+  ] 
+  5 -> 33 [
+     fontsize = 8,
+  ] 
+  5 -> 37 [
+     fontsize = 8,
+  ] 
+  5 -> 41 [
+     fontsize = 8,
+  ] 
+  5 -> 45 [
+     fontsize = 8,
+  ] 
+  5 -> 49 [
+     fontsize = 8,
+  ] 
+  5 -> 53 [
+     fontsize = 8,
+  ] 
+  5 -> 57 [
+     fontsize = 8,
+  ] 
+  5 -> 61 [
+     fontsize = 8,
+  ] 
+  5 -> 65 [
+     fontsize = 8,
+  ] 
+  5 -> 69 [
+     fontsize = 8,
+  ] 
+  5 -> 73 [
+     fontsize = 8,
+  ] 
+  5 -> 77 [
+     fontsize = 8,
+  ] 
+  5 -> 81 [
+     fontsize = 8,
+  ] 
+  5 -> 85 [
+     fontsize = 8,
+  ] 
+  5 -> 89 [
+     fontsize = 8,
+  ] 
+  5 -> 93 [
+     fontsize = 8,
+  ] 
+  5 -> 97 [
+     fontsize = 8,
+  ] 
+  5 -> 101 [
+     fontsize = 8,
+  ] 
+  5 -> 105 [
+     fontsize = 8,
+  ] 
+  5 -> 109 [
+     fontsize = 8,
+  ] 
+  5 -> 113 [
+     fontsize = 8,
+  ] 
+  5 -> 117 [
+     fontsize = 8,
+  ] 
+  5 -> 121 [
+     fontsize = 8,
+  ] 
+  5 -> 125 [
+     fontsize = 8,
+  ] 
+  5 -> 129 [
+     fontsize = 8,
+  ] 
+  5 -> 133 [
+     fontsize = 8,
+  ] 
+  5 -> 137 [
+     fontsize = 8,
+  ] 
+  5 -> 141 [
+     fontsize = 8,
+  ] 
+  5 -> 145 [
+     fontsize = 8,
+  ] 
+  5 -> 149 [
+     fontsize = 8,
+  ] 
+  5 -> 153 [
+     fontsize = 8,
+  ] 
+  5 -> 157 [
+     fontsize = 8,
+  ] 
+  5 -> 161 [
+     fontsize = 8,
+  ] 
+  5 -> 165 [
+     fontsize = 8,
+  ] 
+  5 -> 169 [
+     fontsize = 8,
+  ] 
+  5 -> 173 [
+     fontsize = 8,
+  ] 
+  5 -> 177 [
+     fontsize = 8,
+  ] 
+  5 -> 181 [
+     fontsize = 8,
+  ] 
+  5 -> 185 [
+     fontsize = 8,
+  ] 
+  5 -> 189 [
+     fontsize = 8,
+  ] 
+  5 -> 193 [
+     fontsize = 8,
+  ] 
+  5 -> 197 [
+     fontsize = 8,
+  ] 
+  5 -> 201 [
+     fontsize = 8,
+  ] 
+  5 -> 205 [
+     fontsize = 8,
+  ] 
+  5 -> 209 [
+     fontsize = 8,
+  ] 
+  5 -> 213 [
+     fontsize = 8,
+  ] 
+  5 -> 217 [
+     fontsize = 8,
+  ] 
+  5 -> 221 [
+     fontsize = 8,
+  ] 
+  5 -> 225 [
+     fontsize = 8,
+  ] 
+  5 -> 229 [
+     fontsize = 8,
+  ] 
+  5 -> 233 [
+     fontsize = 8,
+  ] 
+  5 -> 237 [
+     fontsize = 8,
+  ] 
+  5 -> 241 [
+     fontsize = 8,
+  ] 
+  5 -> 245 [
+     fontsize = 8,
+  ] 
+  5 -> 249 [
+     fontsize = 8,
+  ] 
+  5 -> 253 [
+     fontsize = 8,
+  ] 
+  5 -> 257 [
+     fontsize = 8,
+  ] 
+  5 -> 261 [
+     fontsize = 8,
+  ] 
+  5 -> 265 [
+     fontsize = 8,
+  ] 
+  5 -> 269 [
+     fontsize = 8,
+  ] 
+  5 -> 273 [
+     fontsize = 8,
+  ] 
+  5 -> 277 [
+     fontsize = 8,
+  ] 
+  5 -> 281 [
+     fontsize = 8,
+  ] 
+  5 -> 285 [
+     fontsize = 8,
+  ] 
+  5 -> 289 [
+     fontsize = 8,
+  ] 
+  5 -> 293 [
+     fontsize = 8,
+  ] 
+  5 -> 297 [
+     fontsize = 8,
+  ] 
+  5 -> 301 [
+     fontsize = 8,
+  ] 
+  5 -> 305 [
+     fontsize = 8,
+  ] 
+  5 -> 309 [
+     fontsize = 8,
+  ] 
+  5 -> 313 [
+     fontsize = 8,
+  ] 
+  5 -> 317 [
+     fontsize = 8,
+  ] 
+  5 -> 321 [
+     fontsize = 8,
+  ] 
+  5 -> 325 [
+     fontsize = 8,
+  ] 
+  5 -> 329 [
+     fontsize = 8,
+  ] 
+  5 -> 333 [
+     fontsize = 8,
+  ] 
+  5 -> 337 [
+     fontsize = 8,
+  ] 
+  5 -> 341 [
+     fontsize = 8,
+  ] 
+  5 -> 345 [
+     fontsize = 8,
+  ] 
+  5 -> 349 [
+     fontsize = 8,
+  ] 
+  5 -> 353 [
+     fontsize = 8,
+  ] 
+  5 -> 357 [
+     fontsize = 8,
+  ] 
+  5 -> 361 [
+     fontsize = 8,
+  ] 
+  5 -> 365 [
+     fontsize = 8,
+  ] 
+  5 -> 369 [
+     fontsize = 8,
+  ] 
+  5 -> 373 [
+     fontsize = 8,
+  ] 
+  5 -> 377 [
+     fontsize = 8,
+  ] 
+  5 -> 381 [
+     fontsize = 8,
+  ] 
+  5 -> 385 [
+     fontsize = 8,
+  ] 
+  5 -> 389 [
+     fontsize = 8,
+  ] 
+  5 -> 393 [
+     fontsize = 8,
+  ] 
+  5 -> 397 [
+     fontsize = 8,
+  ] 
+  5 -> 401 [
+     fontsize = 8,
+  ] 
+  5 -> 405 [
+     fontsize = 8,
+  ] 
+  5 -> 409 [
+     fontsize = 8,
+  ] 
+  5 -> 413 [
+     fontsize = 8,
+  ] 
+  5 -> 417 [
+     fontsize = 8,
+  ] 
+  5 -> 421 [
+     fontsize = 8,
+  ] 
+  5 -> 425 [
+     fontsize = 8,
+  ] 
+  5 -> 429 [
+     fontsize = 8,
+  ] 
+  5 -> 433 [
+     fontsize = 8,
+  ] 
+  5 -> 437 [
+     fontsize = 8,
+  ] 
+  1 -> 441 [
+     fontsize = 8,
+  ] 
+  1 -> 445 [
+     fontsize = 8,
+  ] 
+  5 -> 449 [
+     fontsize = 8,
+  ] 
+  1 -> 453 [
+     fontsize = 8,
+  ] 
+  5 -> 457 [
+     fontsize = 8,
+  ] 
+  5 -> 461 [
+     fontsize = 8,
+  ] 
+  5 -> 465 [
+     fontsize = 8,
+  ] 
+  5 -> 469 [
+     fontsize = 8,
+  ] 
+  5 -> 473 [
+     fontsize = 8,
+  ] 
+  5 -> 477 [
+     fontsize = 8,
+  ] 
+  5 -> 481 [
+     fontsize = 8,
+  ] 
+  5 -> 485 [
+     fontsize = 8,
+  ] 
+  5 -> 489 [
+     fontsize = 8,
+  ] 
+  5 -> 493 [
+     fontsize = 8,
+  ] 
+  5 -> 497 [
+     fontsize = 8,
+  ] 
+  5 -> 501 [
+     fontsize = 8,
+  ] 
+  5 -> 505 [
+     fontsize = 8,
+  ] 
+  5 -> 509 [
+     fontsize = 8,
+  ] 
+  5 -> 513 [
+     fontsize = 8,
+  ] 
+  5 -> 517 [
+     fontsize = 8,
+  ] 
+  5 -> 521 [
+     fontsize = 8,
+  ] 
+  1 -> 525 [
+     fontsize = 8,
+  ] 
+  525 -> 533 [
+     fontsize = 8,
+  ] 
+  1 -> 541 [
+     fontsize = 8,
+  ] 
+  533 -> 545 [
+     fontsize = 8,
+  ] 
+  1 -> 549 [
+     fontsize = 8,
+  ] 
+  1 -> 553 [
+     fontsize = 8,
+  ] 
+  1 -> 557 [
+     fontsize = 8,
+  ] 
+  1 -> 565 [
+     fontsize = 8,
+  ] 
+  1 -> 577 [
+     fontsize = 8,
+  ] 
+  1 -> 581 [
+     fontsize = 8,
+  ] 
+  1 -> 585 [
+     fontsize = 8,
+  ] 
+  1 -> 597 [
+     fontsize = 8,
+  ] 
+  1 -> 605 [
+     fontsize = 8,
+  ] 
+  1 -> 609 [
+     fontsize = 8,
+  ] 
+  577 -> 633 [
+     fontsize = 8,
+  ] 
+  1 -> 637 [
+     fontsize = 8,
+  ] 
+  1 -> 641 [
+     fontsize = 8,
+  ] 
+  5 -> 649 [
+     fontsize = 8,
+  ] 
+  5 -> 653 [
+     fontsize = 8,
+  ] 
+  1 -> 657 [
+     fontsize = 8,
+  ] 
+  1 -> 681 [
+     fontsize = 8,
+  ] 
+  1 -> 685 [
+     fontsize = 8,
+  ] 
+  1 -> 689 [
+     fontsize = 8,
+  ] 
+  1 -> 705 [
+     fontsize = 8,
+  ] 
+  1 -> 749 [
+     fontsize = 8,
+  ] 
+  1 -> 753 [
+     fontsize = 8,
+  ] 
+  1 -> 757 [
+     fontsize = 8,
+  ] 
+  1 -> 769 [
+     fontsize = 8,
+  ] 
+  757 -> 773 [
+     fontsize = 8,
+  ] 
+  1 -> 785 [
+     fontsize = 8,
+  ] 
+  -1 -> 789 [
+     fontsize = 8,
+  ] 
+  773 -> 793 [
+     fontsize = 8,
+  ] 
+  793 -> 805 [
+     fontsize = 8,
+  ] 
+  793 -> 813 [
+     fontsize = 8,
+  ] 
+  813 -> 829 [
+     fontsize = 8,
+  ] 
+  1 -> 857 [
+     fontsize = 8,
+  ] 
+  1 -> 869 [
+     fontsize = 8,
+  ] 
+  869 -> 873 [
+     fontsize = 8,
+  ] 
+  1 -> 877 [
+     fontsize = 8,
+  ] 
+  829 -> 885 [
+     fontsize = 8,
+  ] 
+  1 -> 921 [
+     fontsize = 8,
+  ] 
+  921 -> 933 [
+     fontsize = 8,
+  ] 
+  1 -> 941 [
+     fontsize = 8,
+  ] 
+  1 -> 949 [
+     fontsize = 8,
+  ] 
+  689 -> 965 [
+     fontsize = 8,
+  ] 
+  829 -> 969 [
+     fontsize = 8,
+  ] 
+  969 -> 981 [
+     fontsize = 8,
+  ] 
+  1 -> 997 [
+     fontsize = 8,
+  ] 
+  1 -> 1009 [
+     fontsize = 8,
+  ] 
+  813 -> 1021 [
+     fontsize = 8,
+  ] 
+  1 -> 1041 [
+     fontsize = 8,
+  ] 
+  1 -> 1053 [
+     fontsize = 8,
+  ] 
+  1 -> 1073 [
+     fontsize = 8,
+  ] 
+  1 -> 1081 [
+     fontsize = 8,
+  ] 
+  1 -> 1097 [
+     fontsize = 8,
+  ] 
+  1 -> 1109 [
+     fontsize = 8,
+  ] 
+  1 -> 1117 [
+     fontsize = 8,
+  ] 
+  1 -> 1129 [
+     fontsize = 8,
+  ] 
+  1 -> 1137 [
+     fontsize = 8,
+  ] 
+  969 -> 1149 [
+     fontsize = 8,
+  ] 
+  757 -> 1161 [
+     fontsize = 8,
+  ] 
+  1 -> 1173 [
+     fontsize = 8,
+  ] 
+  -1 -> 1210 [
+     fontsize = 8,
+  ] 
+  1 -> 1214 [
+     fontsize = 8,
+  ] 
+  1161 -> 1226 [
+     fontsize = 8,
+  ] 
+  1226 -> 1334 [
+     fontsize = 8,
+  ] 
+  1226 -> 1350 [
+     fontsize = 8,
+  ] 
+  1226 -> 1514 [
+     fontsize = 8,
+  ] 
+  1 -> 1986 [
+     fontsize = 8,
+  ] 
+  1986 -> 2085 [
+     fontsize = 8,
+  ] 
+  1 -> 2173 [
+     fontsize = 8,
+  ] 
+  1 -> 2243 [
+     fontsize = 8,
+  ] 
+  1 -> 2323 [
+     fontsize = 8,
+  ] 
+  1514 -> 2543 [
+     fontsize = 8,
+  ] 
+  1 -> 3828 [
+     fontsize = 8,
+  ] 
+  1 -> 4360 [
+     fontsize = 8,
+  ] 
+  5 -> 4364 [
+     fontsize = 8,
+  ] 
+  1514 -> 4368 [
+     fontsize = 8,
+  ] 
+  1 -> 8274 [
+     fontsize = 8,
+  ] 
+  1 -> 8486 [
+     fontsize = 8,
+  ] 
+  1 -> 9226 [
+     fontsize = 8,
+  ] 
+  4368 -> 9877 [
+     fontsize = 8,
+  ] 
+  9877 -> 10033 [
+     fontsize = 8,
+  ] 
+  1 -> 10241 [
+     fontsize = 8,
+  ] 
+  1 -> 10553 [
+     fontsize = 8,
+  ] 
+  1 -> 11133 [
+     fontsize = 8,
+  ] 
+  1 -> 11328 [
+     fontsize = 8,
+  ] 
+  1 -> 11397 [
+     fontsize = 8,
+  ] 
+  1 -> 11559 [
+     fontsize = 8,
+  ] 
+  1 -> 11629 [
+     fontsize = 8,
+  ] 
+  1 -> 11717 [
+     fontsize = 8,
+  ] 
+  1 -> 11888 [
+     fontsize = 8,
+  ] 
+  1514 -> 11984 [
+     fontsize = 8,
+  ] 
+  1514 -> 12085 [
+     fontsize = 8,
+  ] 
+  1514 -> 13115 [
+     fontsize = 8,
+  ] 
+  1514 -> 13334 [
+     fontsize = 8,
+  ] 
+  1514 -> 14594 [
+     fontsize = 8,
+  ] 
+  1 -> 14813 [
+     fontsize = 8,
+  ] 
+  1514 -> 15341 [
+     fontsize = 8,
+  ] 
+  1514 -> 15937 [
+     fontsize = 8,
+  ] 
+  1514 -> 16285 [
+     fontsize = 8,
+  ] 
+  1 -> 16559 [
+     fontsize = 8,
+  ] 
+  16559 -> 17391 [
+     fontsize = 8,
+  ] 
+  1 -> 18331 [
+     fontsize = 8,
+  ] 
+  16559 -> 19147 [
+     fontsize = 8,
+  ] 
+  18331 -> 19708 [
+     fontsize = 8,
+  ] 
+  9877 -> 20275 [
+     fontsize = 8,
+  ] 
+  1 -> 20416 [
+     fontsize = 8,
+  ] 
+  5 -> 45694 [
+     fontsize = 8,
+  ] 
+  5 -> 45698 [
+     fontsize = 8,
+  ] 
+  5 -> 45702 [
+     fontsize = 8,
+  ] 
+  5 -> 45706 [
+     fontsize = 8,
+  ] 
+  5 -> 45710 [
+     fontsize = 8,
+  ] 
+  1 -> 45714 [
+     fontsize = 8,
+  ] 
+  1 -> 45812 [
+     fontsize = 8,
+  ] 
+  5 -> 45965 [
+     fontsize = 8,
+  ] 
+  1 -> 45969 [
+     fontsize = 8,
+  ] 
+  45969 -> 46745 [
+     fontsize = 8,
+  ] 
+  45969 -> 46749 [
+     fontsize = 8,
+  ] 
+  5 -> 46763 [
+     fontsize = 8,
+  ] 
+  5 -> 46767 [
+     fontsize = 8,
+  ] 
+  45969 -> 46771 [
+     fontsize = 8,
+  ] 
+  45969 -> 46785 [
+     fontsize = 8,
+  ] 
+  46785 -> 46799 [
+     fontsize = 8,
+  ] 
+  5 -> 46832 [
+     fontsize = 8,
+  ] 
+  5 -> 46836 [
+     fontsize = 8,
+  ] 
+  5 -> 46840 [
+     fontsize = 8,
+  ] 
+  5 -> 46844 [
+     fontsize = 8,
+  ] 
+  5 -> 46848 [
+     fontsize = 8,
+  ] 
+  5 -> 46852 [
+     fontsize = 8,
+  ] 
+  5 -> 46856 [
+     fontsize = 8,
+  ] 
+  5 -> 46860 [
+     fontsize = 8,
+  ] 
+  5 -> 46864 [
+     fontsize = 8,
+  ] 
+  5 -> 46868 [
+     fontsize = 8,
+  ] 
+  5 -> 46872 [
+     fontsize = 8,
+  ] 
+  5 -> 46876 [
+     fontsize = 8,
+  ] 
+  5 -> 46880 [
+     fontsize = 8,
+  ] 
+  5 -> 46884 [
+     fontsize = 8,
+  ] 
+  5 -> 46888 [
+     fontsize = 8,
+  ] 
+  45969 -> 46892 [
+     fontsize = 8,
+  ] 
+  5 -> 46906 [
+     fontsize = 8,
+  ] 
+  5 -> 46910 [
+     fontsize = 8,
+  ] 
+  5 -> 46914 [
+     fontsize = 8,
+  ] 
+  46749 -> 46918 [
+     fontsize = 8,
+  ] 
+  46918 -> 46962 [
+     fontsize = 8,
+  ] 
+  46962 -> 46974 [
+     fontsize = 8,
+  ] 
+  46974 -> 46991 [
+     fontsize = 8,
+  ] 
+}
